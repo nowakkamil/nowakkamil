@@ -15,7 +15,7 @@
 💬 Cambridge English C1 Advanced Certificate - Score 192
 
 #### Few words about me:
-I consider myself a highly diligent person who has a calling for work in the software industry. I have been enticed by machines from very early on, and a career as a software developer was an obvious choice for me. Few years of professional experience combined with formal education from top-notch universities enabled me to get a broader perspective on the software as a whole and the value of efficient teamwork. On a side note, I am a huge fan of functional programming, especially a declarative approach.
+I consider myself a highly diligent person who has a calling for work in the software industry. I have been enticed by machines from very early on, and a career as a software developer was an obvious choice for me. Few years of professional experience combined with formal education from top-notch universities enabled me to get a broader perspective on the software as a whole and the value of efficient teamwork. On a side note, I am a huge fan of functional programming, especially a declarative approach (as stated above).
 
 #### Things outside of IT of which I am keen on:
 🎵 Alternative / Indie Rock\
