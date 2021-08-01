@@ -2,11 +2,11 @@
 <h4 align="center">A passionate full-stack web developer from Poland specialising in .NET and React. I am a huge fan of functional programming, especially a declarative approach.</h4>
 
 #### Contributions outside of personal repos:
-[**[Front-End]** Three-Phase Electric Power Analyser - Internet of Things](https://github.com/LaYatiX/MiMServer)\
+[**[Front-End]** Three-Phase Electric Power Analyser](https://github.com/LaYatiX/MiMServer)\
 [**[Front-End]** timeago-react](https://github.com/hustcc/timeago-react)\
-[**[Back-End]** SmartPlaner - A web application that helps to obtain an optimal timetable](https://github.com/kucharzyk-sebastian/SmartPlanner)\
-[**[Full-Stack]** Image Converter](https://github.com/SasanLabs/VulnerableApp)\
-[**[AI | ML]** Convolutional neural networks for fashion classification](https://github.com/robert9620/cnn-fashion-classification)\
+[**[Back-End]** SmartPlaner](https://github.com/kucharzyk-sebastian/SmartPlanner)\
+[**[Full-Stack]** OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp)\
+[**[AI | ML]** CNN for fashion classification](https://github.com/robert9620/cnn-fashion-classification)\
 [**[C++ App]** Image Converter](https://github.com/KarolPiasnik/6bit-image-converter)
 
 #### Personal accomplishments:
