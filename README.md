@@ -32,4 +32,4 @@ I consider myself a highly diligent person who has a calling for work in the sof
 </p>
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nowakkamil&label=Profile%20views&color=0e75b6&style=flat" alt="nowakkamil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nowakkamil&label=PROFILE%20VIEWS&color=642ab5&style=flat-square" alt="nowakkamil" /> </p>
