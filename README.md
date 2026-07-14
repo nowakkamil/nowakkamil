@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kamil Nowak</h2>
-<h4 align="center">A passionate full-stack web developer from Poland specialising in .NET and React. I am a huge fan of functional programming, especially a declarative approach.</h4>
+<h4 align="center">A passionate senior full-stack web developer from Poland specialising in .NET and React. I am a huge fan of functional programming, especially a declarative approach.</h4>
 
 #### Contributions outside of personal repos:
 [**[Front-End]** Three-Phase Electric Power Analyser](https://github.com/LaYatiX/MiMServer)\
