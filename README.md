@@ -4,7 +4,7 @@
 #### Contributions outside of personal repos:
 [**[Front-End]** Three-Phase Electric Power Analyser](https://github.com/LaYatiX/MiMServer)\
 [**[Front-End]** timeago-react](https://github.com/hustcc/timeago-react)\
-[**[Back-End]** SmartPlaner](https://github.com/kucharzyk-sebastian/SmartPlanner)\
+[**[Back-End]** SmartPlanner](https://github.com/kucharzyk-sebastian/SmartPlanner)\
 [**[Full-Stack]** OWASP VulnerableApp](https://github.com/SasanLabs/VulnerableApp)\
 [**[AI | ML]** CNN for fashion classification](https://github.com/robert9620/cnn-fashion-classification)\
 [**[C++ App]** Image Converter](https://github.com/KarolPiasnik/6bit-image-converter)
